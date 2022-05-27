@@ -1,0 +1,3 @@
+C:/OOP/Signal/build/CMakeFiles/Signal.dir
+C:/OOP/Signal/build/CMakeFiles/edit_cache.dir
+C:/OOP/Signal/build/CMakeFiles/rebuild_cache.dir
